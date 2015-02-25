@@ -1,3 +1,4 @@
 package:
-	zip package.zip instructorizer.js manifest.json
+	rm package.zip
+	zip package.zip LICENSE manifest.json instructorizer.js
 
