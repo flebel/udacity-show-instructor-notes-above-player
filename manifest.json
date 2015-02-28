@@ -3,8 +3,8 @@
     "js": [ "instructorizer.js" ],
     "matches": [ "https://www.udacity.com/course/viewer*" ]
   }],
-  "description": "Moves Udacity's instructor notes above the video player for convenience.",
+  "description": "Moves Udacity's instructor notes above the video player.",
   "manifest_version": 2,
-  "name": "Show Udacity instructor notes above player",
-  "version": "0.2"
+  "name": "Udacity instructor notes above player",
+  "version": "0.3"
 }
