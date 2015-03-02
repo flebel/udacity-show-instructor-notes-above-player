@@ -9,11 +9,14 @@ It is available free of charge on the Chrome web store at https://chrome.google.
 Version history
 ===============
 
-v0.3 / 2015-02-28
-- Added support for quiz player
+- v0.3 / 2015-02-28
 
-v0.2 / 2015-02-24
-- Minor improvements
+  - Added support for quiz player
 
-v0.1 / 2015-02-22
-- Initial release
+- v0.2 / 2015-02-24
+
+  - Minor improvements
+
+- v0.1 / 2015-02-22
+
+  - Initial release
